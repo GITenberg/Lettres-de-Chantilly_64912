@@ -1,5 +1,8 @@
 _repo: Lettres-de-Chantilly_64912
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 64912-h/images/cover.jpg
 creator:
   author:
     agent_name: Boulenger, Marcel
@@ -11,6 +14,8 @@ creator:
     - https://en.wikipedia.org/wiki/Marcel_Boulenger
     - https://fr.wikipedia.org/wiki/Marcel_Boulenger
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64912#Lettres-de-Chantilly
 gutenberg_issued: '2021-03-23'
 gutenberg_type: Text
 identifiers:
